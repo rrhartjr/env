@@ -5,7 +5,7 @@ if has("autocmd")
   filetype plugin indent on
   augroup myfiletypes
     autocmd!
-    autocmd FileType python,ruby,eruby,yaml,php,html,xml set ai sw=2 sts=2 et
+    autocmd FileType php,python,ruby,eruby,yaml,php,html,xml set ai sw=2 sts=2 et
   augroup END
 endif
 

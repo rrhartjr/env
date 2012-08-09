@@ -1,3 +1,5 @@
+source ~/.bashrc
+
 export PATH=$PATH:$HOME/bin
 export SVN_EDITOR=vi
 
